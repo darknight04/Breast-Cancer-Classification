@@ -3,12 +3,19 @@
 This project focuses on building a Decision Tree classifier to predict whether a breast mass is malignant or benign using the Breast Cancer Dataset provided by scikit-learn. The dataset includes 569 samples with 30 features each, and has two classes: malignant and benign.
 
 ## Dependencies
+
 Python 3.10.4
+
 Scikit-learn
+
 Numpy
+
 Pandas
+
 Matplotlib
-Project Overview
+
+## Project Overview
+
 The project is divided into four parts:
 
 ## Part 1 & 2:
